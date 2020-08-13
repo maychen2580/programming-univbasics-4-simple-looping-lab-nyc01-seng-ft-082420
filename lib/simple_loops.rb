@@ -27,9 +27,9 @@ def return_string_array(array)
   while count < array.length do
   array[count] = array[count].to_s
   count += 1
-  array
+  
  end
- 
+ array
 end
 
 
